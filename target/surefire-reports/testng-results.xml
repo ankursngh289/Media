@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12183" started-at="2022-01-09T09:48:34Z" finished-at="2022-01-09T09:48:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12183" started-at="2022-01-09T09:48:34Z" finished-at="2022-01-09T09:48:46Z">
+      <class name="MFiles.Mfiletest">
+        <test-method status="PASS" signature="pchrome()[pri:0, instance:MFiles.Mfiletest@1f0f1111]" name="pchrome" is-config="true" duration-ms="4197" started-at="2022-01-09T15:18:34Z" finished-at="2022-01-09T15:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pchrome -->
+        <test-method status="PASS" signature="getFiles()[pri:0, instance:MFiles.Mfiletest@1f0f1111]" name="getFiles" duration-ms="7974" started-at="2022-01-09T15:18:38Z" finished-at="2022-01-09T15:18:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFiles -->
+      </class> <!-- MFiles.Mfiletest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
